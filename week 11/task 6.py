@@ -1,0 +1,5 @@
+a = input("Enter your name:")
+b = int(input("Enter your Roll_Number:"))
+c = type(a)
+d = type(b)
+print(c,'\n',d)
