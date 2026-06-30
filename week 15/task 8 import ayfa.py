@@ -1,0 +1,2 @@
+import ayfa
+ayfa.welcome()
